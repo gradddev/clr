@@ -1,3 +1,3 @@
-module github.com/AlexeySemigradsky/clr
+module github.com/gradddev/clr
 
 go 1.15

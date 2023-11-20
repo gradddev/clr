@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/AlexeySemigradsky/clr"
+	"github.com/gradddev/clr"
 )
 
 func TestHSVToRGB(t *testing.T) {

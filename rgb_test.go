@@ -3,7 +3,7 @@ package clr_test
 import (
 	"testing"
 
-	"github.com/AlexeySemigradsky/clr"
+	"github.com/gradddev/clr"
 )
 
 func TestNewRGBFromHex(t *testing.T) {
